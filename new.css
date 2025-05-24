@@ -1,0 +1,31 @@
+#main
+{
+    background-color:rgb(168, 234, 228) ;
+   
+    
+
+    height:550px;
+    width: 450px;
+    margin:100px;
+    padding-top: 50px;
+    
+}
+
+body
+{
+    background-image: url(https://media.istockphoto.com/id/840562866/vector/patchwork-arts-and-crafts-lettering.jpg?s=612x612&w=0&k=20&c=m32Hd5o4PK2LaMqw--k4no3n3ov0iv-TKSW94fvBvr4=);
+    background-size: cover;
+    background-position: center;
+    color: black;
+    text-align: center;
+    
+    
+}
+#mybox
+{
+padding-top: 100px ;
+border: 2px;
+
+
+
+}
